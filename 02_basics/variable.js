@@ -1,2 +1,6 @@
 const fullname="khalil khan";
-console.log(fullname)
+let fname="sareer khan";
+var rollno=9;
+
+let fname="khan";
+var rollno=3;
